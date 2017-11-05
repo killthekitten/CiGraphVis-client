@@ -1,0 +1,16 @@
+{
+  "name": "cigraphvis-client",
+  "version": "0.0.1",
+  "description": "Client app for the CiGraphVis project https://github.com/gangiman/CiGraphVis Edit",
+  "main": "src/main/entry.js",
+  "repository": "https://github.com/killthekitten/CiGraphVis-client",
+  "author": "Nikolay Shebanov <nikolay.shebanov@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "scripts": {
+    "app": "electron ."
+  }
+}
